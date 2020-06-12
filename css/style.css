@@ -1,0 +1,53 @@
+#home-pg{
+	background-color: #A8D3FC;
+}
+#default-navbar{
+	background-color: #7F6BEE;
+}
+/*Colores: #82BFEC  #A8D3FC #5791FF */
+#default-navbar .nav-link,
+#default-navbar .navbar-brand{
+	color: #00033D;
+}
+#home-carousel .carousel-item{
+	height:240px;
+}
+#home-carousel .carousel-item > h5{
+	font-size:2rem;
+}
+#home-carousel .carousel-item > p{
+	font-size:1.25rem;
+}
+.option-sect{
+	background-color: #A8D3FC;
+	padding-left:12px;
+	padding-right:12px;
+}
+.option-area{
+	height: inherit;
+	padding: 20px 0;
+}
+.option-area .opt{
+	text-align:center;
+	color:#fff;
+	flex-grow:1;
+	min-width:300px;
+}
+.option-area .opt .opt-img{
+	width:200px;
+	height:200px;
+	border-radius:50%;
+}
+.option-area .opt .opt-title{
+	font-size:28px;
+	font-weight:700;
+}
+.option-area .opt .opt-desc{
+	margin-top:12px;
+	margin-bottom:0;
+}
+.option-area .opt.mg-top{
+	margin-top:40px;
+}
+
+
